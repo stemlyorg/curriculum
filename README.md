@@ -5,8 +5,6 @@ English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/course
 
 ## Workflow
 
-### Requirements
-
 ### Uploading Documents
 
 - For the example, we are using this [document](https://docs.google.com/document/d/1c1XubX4diXcQmJHfrPOZzlITQ9MZR8dclSo_v7J-JAw/edit?usp=sharing), which is named `WLAEnglishLanguageArtsCourseMap`
