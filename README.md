@@ -1,7 +1,7 @@
 # WLA Curriculum
 
 ## Courses
-[English Language Arts I](https://stemlyorg.github.io/curriculum/WLAEnglishLanguageArtsCourseMap/)
+English Language Arts I[HTML](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/) [PDF](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/index.pdf)
 
 ## Workflow
 
@@ -16,6 +16,7 @@
 - Move the HTML files and PDF file into that course folder
   - Example:
     - Move PDF: `mv ~/Downloads/WLAEnglishLanguageArtsCourseMap.pdf courses/EnglishLanguageArtsI`
+    - Rename PDF `mv courses/EnglishLanguageArtsI/WLAEnglishLanguageArtsCourseMap.pdf courses/EnglishLanguageArtsI/index.pdf`
     - Move HTML: `mv ~/Downloads/WLAEnglishLanguageArtsCourseMap/* courses/EnglishLanguageArtsI`
     - Renamed HTML: `mv courses/EnglishLanguageArtsI/WLAEnglishLanguageArtsCourseMap.html courses/EnglishLanguageArtsI/index.html`
 
