@@ -1,7 +1,7 @@
 # WLA Curriculum
 
 ## Courses
-English Language Arts I[HTML](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/) [PDF](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/index.pdf)
+English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/index.pdf)
 
 ## Workflow
 
