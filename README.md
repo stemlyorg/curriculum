@@ -2,6 +2,7 @@
 
 ## Courses
 English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/index.pdf)
+Algebra I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/index.pdf)
 
 ## Workflow
 
