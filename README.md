@@ -1,8 +1,9 @@
 # WLA Curriculum
 
 ## Courses
-English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/index.pdf)
-Algebra I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/index.pdf)
+- English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/index.pdf)
+- Algebra I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/index.pdf)
+- Advanced Math I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathI/index.pdf
 
 ## Workflow
 
