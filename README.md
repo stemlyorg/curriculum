@@ -1,12 +1,12 @@
 # WLA Curriculum
 
 ## Courses
-- English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArtsI/index.pdf)
-- Algebra I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/index.pdf)
-- Advanced Math I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathI/index.pdf)
-- Advanced Math II [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathII/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathII/index.pdf)
-- Integrated and Experimental Sciences I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/IESciencesI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/IESciencesI/index.pdf)
-- Computer Science and Technology I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/CST1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/CST1/index.pdf)
+- English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArts1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArts1/index.pdf)
+- Algebra I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/Algebra1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/Algebra1/index.pdf)
+- Advanced Math I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMath1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMath1/index.pdf)
+- Advanced Math II [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMath2/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMath2/index.pdf)
+- Integrated and Experimental Sciences I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/IESciences1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/IESciences1/index.pdf)
+- Computer Science and Technology I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/CS1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/CS1/index.pdf)
 - Leadership Education and Development I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/Lead1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/Lead1/index.pdf)
 - World History I (Pre-AP) [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/WH1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/WH1/index.pdf)
 
