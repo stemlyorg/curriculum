@@ -8,6 +8,7 @@
 - Integrated and Experimental Sciences I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/IESciencesI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/IESciencesI/index.pdf)
 - Computer Science and Technology I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/CST1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/CST1/index.pdf)
 - Leadership Education and Development I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/Lead1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/Lead1/index.pdf)
+- World History I (Pre-AP) [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/WH1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/WH1/index.pdf)
 
 ## Workflow
 
