@@ -5,7 +5,7 @@
 - Algebra I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AlgebraI/index.pdf)
 - Advanced Math I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathI/index.pdf)
 - Advanced Math II [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathII/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMathII/index.pdf)
-
+- Integrated and Experimental Sciences I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/IESciencesI/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/IESciencesI/index.pdf)
 ## Workflow
 
 ### Uploading Documents
