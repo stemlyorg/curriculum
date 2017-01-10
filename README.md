@@ -1,6 +1,7 @@
 # WLA Curriculum
 
 ## Courses
+\[The HTML and PDF links are the same content just in different file formats\]
 - English Language Arts I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArts1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/EnglishLanguageArts1/index.pdf)
 - Algebra I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/Algebra1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/Algebra1/index.pdf)
 - Advanced Math I [\[HTML\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMath1/) [\[PDF\]](https://stemlyorg.github.io/curriculum/courses/AdvancedMath1/index.pdf)
